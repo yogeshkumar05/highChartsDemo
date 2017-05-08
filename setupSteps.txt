@@ -1,0 +1,7 @@
+1. install node.js
+2. create project folder
+3. open command prompt from the folder
+4. npm init
+5. npm install react react-dom webpack webpack-dev-server babel babel-core babel-loader babel-preset-es2015 babel-preset-react highcharts --save
+6. npm start
+
